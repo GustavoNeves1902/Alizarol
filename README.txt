@@ -1,4 +1,4 @@
-as pastas das fotos precisam seguir exatamente essa ordem:
+o diretório das fotos precisa ser:
 trains/Alizarol_Leite/Aprovado e trains/Alizarol_Leite/Aprovado
 tests/Alizarol_Leite/Aprovado e tests/Alizarol_Leite/Aprovado
 
