@@ -1,3 +1,8 @@
+as pastas das fotos precisam seguir exatamente essa ordem:
+trains/Alizarol_Leite/Aprovado e trains/Alizarol_Leite/Aprovado
+tests/Alizarol_Leite/Aprovado e tests/Alizarol_Leite/Aprovado
+
+
 Execução do train_CNN.py no mac
 
 source venv/bin/activate
