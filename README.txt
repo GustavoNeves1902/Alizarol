@@ -10,3 +10,6 @@ python3 train_CNN.py -e Alizarol_Leite -m resnet50
 
 Execução do evaluate_model.py no mac
 python3 evaluate_model.py -e Alizarol_Leite -m resnet50
+
+
+ANTES DE EXECUTAR NO SERVIDOR, PRECISO CONFERIR A VERSÃO DO CUDA PARA ADICIONAR NO REQUIREMENTS.TXT
